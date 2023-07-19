@@ -83,7 +83,7 @@ a{
     padding: 0.5rem 2rem;
     white-space: nowrap;
 }
-.badges--primary{
+.badge--primary{
     background-color: var(--color-primary);
     color: #fff;
 }
